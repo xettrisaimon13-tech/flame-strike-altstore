@@ -4,6 +4,7 @@
   "subtitle": "Team battle shooter",
   "description": "FLAME STRIKE is a fast team shooter: pick a character, drop into the snow arena and fight with your squad over voice chat.",
   "website": "https://flamestrike-7icrn5u7j5p.qoder.website",
+  "iconURL": "https://raw.githubusercontent.com/xettrisaimon13-tech/flame-strike-altstore/main/icon.png",
   "tintColor": "#f4bd16",
   "featuredApps": ["com.saimonchauhan.flamestrike"],
   "apps": [
