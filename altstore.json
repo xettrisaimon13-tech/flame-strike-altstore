@@ -6,7 +6,9 @@
   "website": "https://flamestrike-7icrn5u7j5p.qoder.website",
   "iconURL": "https://raw.githubusercontent.com/xettrisaimon13-tech/flame-strike-altstore/main/icon.png",
   "tintColor": "#f4bd16",
-  "featuredApps": ["com.saimonchauhan.flamestrike"],
+  "featuredApps": [
+    "com.saimonchauhan.flamestrike"
+  ],
   "apps": [
     {
       "name": "FLAME STRIKE",
@@ -21,6 +23,15 @@
         "https://raw.githubusercontent.com/xettrisaimon13-tech/flame-strike-altstore/main/screenshot.png"
       ],
       "versions": [
+        {
+          "version": "1.1.8",
+          "buildVersion": "18",
+          "date": "2026-11-17",
+          "localizedDescription": "Microphone transmits on iOS, landscape flips with the phone, right-side menu moved inside the iPhone safe area, emoji bundled.",
+          "downloadURL": "https://github.com/xettrisaimon13-tech/flame-strike-altstore/releases/download/v1.1.8/FLAME-STRIKE-1.1.8.ipa",
+          "size": 208938896,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.1.7",
           "buildVersion": "17",
