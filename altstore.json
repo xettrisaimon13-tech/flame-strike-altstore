@@ -1,0 +1,42 @@
+{
+  "name": "FLAME STRIKE",
+  "identifier": "com.saimonchauhan.flamestrike.altstore",
+  "subtitle": "Team battle shooter",
+  "description": "FLAME STRIKE is a fast team shooter: pick a character, drop into the snow arena and fight with your squad over voice chat.",
+  "website": "https://flamestrike-7icrn5u7j5p.qoder.website",
+  "tintColor": "#f4bd16",
+  "featuredApps": ["com.saimonchauhan.flamestrike"],
+  "apps": [
+    {
+      "name": "FLAME STRIKE",
+      "bundleIdentifier": "com.saimonchauhan.flamestrike",
+      "developerName": "Saimon Chauhan",
+      "subtitle": "Team battle shooter",
+      "localizedDescription": "FLAME STRIKE is a fast team shooter: pick a character, drop into the snow arena and fight with your squad over voice chat.\n\nThis build is distributed for sideloading through AltStore. Sign in with your own Apple ID when AltStore asks, and keep AltServer running on your computer to refresh it before the 7-day expiry.",
+      "iconURL": "https://raw.githubusercontent.com/xettrisaimon13-tech/flame-strike-altstore/main/icon.png",
+      "tintColor": "#f4bd16",
+      "category": "games",
+      "screenshots": [
+        "https://raw.githubusercontent.com/xettrisaimon13-tech/flame-strike-altstore/main/screenshot.png"
+      ],
+      "versions": [
+        {
+          "version": "1.1.7",
+          "buildVersion": "17",
+          "date": "2026-11-17",
+          "localizedDescription": "iOS: microphone now transmits (Play and Record audio session), landscape flips with the phone, right-side menu moved inside the iPhone safe area, emoji glyphs bundled.",
+          "downloadURL": "https://github.com/xettrisaimon13-tech/flame-strike-altstore/releases/download/v1.1.7/FLAME-STRIKE-1.1.7.ipa",
+          "size": 208938894,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "FLAME STRIKE uses the microphone so your teammates can hear you in team voice chat."
+        }
+      }
+    }
+  ],
+  "news": []
+}
